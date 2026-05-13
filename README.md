@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **AI + Full‑Stack Development** (building smarter apps with LLMs and RAG)
+- 🌱 I’m currently learning **AI + Full‑Stack Development** 
 - 💬 Ask me about **React, Next.js, JavaScript, Node.js, Git, GitHub, Postman, Figma**
 - 📫 How to reach me **us527887@gmail.com**
 - ⚡ Fun fact: I love turning coffee ☕ into clean, responsive code.
