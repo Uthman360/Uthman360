@@ -29,21 +29,31 @@ Full Stack Developer passionate about building modern, scalable, and user-friend
 
 ---
 
-<h3 align="left">🚀 Connect with me</h3>
+### 🚀 Connect with Me
 
 <p align="left">
+
 <a href="https://github.com/yourusername" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" />
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+alt="github"
+height="30"
+width="30" />
 </a>
 
 <a href="https://linkedin.com/in/yourusername" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
+<img align="center"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+alt="linkedin"
+height="30"
+width="30" />
 </a>
+
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+### 🛠 Languages and Tools
 
 <p align="left">
 
