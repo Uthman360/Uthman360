@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">A passionate Full Stack Developer crafting beautiful, functional, and performant applications.</h3>
+<h1 align="left">Hi 👋, I'm Usman</h1>
+<h3 align="left">A passionate Full Stack Developer crafting beautiful, functional, and performant applications.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
@@ -16,24 +16,7 @@
 
 ---
 
-### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-  <a href="mailto:us527887@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -64,42 +47,7 @@
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak-stats" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| 🔥 **AI Portfolio** | AI‑powered portfolio with GPT integration | Next.js, Tailwind, OpenAI API |
-| 🛍️ **E‑commerce Backend** | Scalable backend with JWT auth, payments | Node.js, Express, MongoDB, Redis |
-| 📱 **Social Dashboard** | Real‑time analytics dashboard | React, Redux, Socket.io, PostgreSQL |
-
-*(Add your actual projects here with live demo / repo links)*
-
----
-
-### 📝 Latest Blog Posts (optional)
-
-- [How I built a full‑stack app in 7 days](#)
-- [Understanding React Server Components](#)
-- [Tailwind vs Bootstrap – My honest take](#)
-
-> 💡 *You can connect your Dev.to or Medium RSS feed automatically!*
-
----
 
 **Thanks for stopping by!** 😊  
 *Keep coding, keep building.*
